@@ -71,6 +71,7 @@ class Portfolio:
 portfolio = Portfolio(etfs)
 
 portfolio_ret = portfolio.portfolio_returns()
+
 print(portfolio_ret.head())
 
 print(portfolio.correlation_matrix())
