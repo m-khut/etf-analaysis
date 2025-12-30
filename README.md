@@ -1,4 +1,4 @@
-his project analyzes performance and risk characteristics of major ETFs using **Python, Pandas, NumPy, and Matplotlib**.
+This project analyzes performance and risk characteristics of major ETFs using **Python, Pandas, NumPy, and Matplotlib**.
 
 It currently supports:
 - SPY — S&P 500
