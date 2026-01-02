@@ -12,6 +12,8 @@ The project is designed to help understand:
 - Portfolio performance
 - Risk and diversification
 - Market behavior across years & months
+- Calculate Moving Average (MA 50)
+- Calculate and compare returns based on 50 MA vs Buy & Hold strategies
 
 Features
 
@@ -26,3 +28,6 @@ Portfolio Level
 - Portfolio cumulative growth
 - Correlation matrix
 - Price trends comparison
+
+Strategy
+ - Calculate and return strategy comoarision (MA vs Buy&Hold)
