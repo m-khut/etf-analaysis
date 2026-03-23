@@ -25,7 +25,7 @@ etfs = [spy, qqq, tlt, gld, uso]
 # print(qqq.returns.head())
 # print(tlt.returns.head())
 # print(gld.returns.head())
-# print(uso.returns.head())
+
 
 class Portfolio:
     def __init__(self, etfs):
